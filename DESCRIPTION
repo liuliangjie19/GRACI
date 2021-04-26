@@ -1,0 +1,13 @@
+Package: GRACI
+Type: Package
+Title: Gene Regulation Analysis based on Causal Inference
+Version: 1.0
+Date: 2021-01-01
+Author: Liangjie Liu
+Maintainer: Liangjie Liu <liuliangjie@sjtu.edu.cn>
+Description: This package provide a new method to find the causal relationship
+    between two genes. And the result of this package can be plotted as a directed
+    network.
+LazyData: true
+License: GPL-3
+RoxygenNote: 7.1.1
